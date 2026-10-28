@@ -1,0 +1,48 @@
+2026-10-03 10:15:00 | INFO | auth | User login successful
+2026-10-03 10:16:30 | DEBUG | database | Connection established
+2026-10-03 11:00:12 | WARNING | api | Rate limit approaching for user 42
+2026-10-03 11:05:45 | ERROR | payments | Payment failed
+2026-10-03 11:06:00 | ERROR | payments | Payment failed
+2026-10-03 12:20:10 | ERROR | payments | Timeout connecting to gateway
+2026-10-03 12:21:00 | ERROR | payments | Timeout connecting to gateway
+2026-10-03 12:22:05 | ERROR | payments | Timeout connecting to gateway
+2026-10-03 13:00:00 | INFO | auth | User logout
+2026-10-03 14:25:10 | ERROR | payments | Payment failed
+2026-10-03 14:26:00 | ERROR | database | Deadlock detected
+2026-10-03 15:10:00 | DEBUG | api | Request received GET /api/v1/status
+2026-10-03 15:11:00 | ERROR | payments | Payment failed
+2026-10-03 15:12:00 | ERROR | database | Deadlock detected
+2026-10-03 16:00:00 | WARNING | system | High memory usage
+2026-10-03 16:05:00 | ERROR | payments | Payment failed
+
+INVALID_LOG_FORMAT_LINE_WITHOUT_PIPES
+2026-10-03 17:00:00 | INVALID_LEVEL | auth | Some message
+
+2026-10-04 09:00:00 | INFO | auth | User login successful
+2026-10-04 09:30:15 | ERROR | payments | Payment failed
+2026-10-04 10:00:00 | ERROR | payments | Insufficient funds
+2026-10-04 10:01:00 | ERROR | payments | Insufficient funds
+2026-10-03 14:05:01 | INFO | auth | User logged in successfully
+2026-10-03 14:10:22 | DEBUG | database | Connection pool initialized
+2026-10-03 14:25:10 | ERROR | payments | Payment failed
+INVALID_LOG_LINE_MISSING_SEPARATORS
+2026-10-03 14:28:15 | WARNING | payments | High latency detected in gateway
+
+2026-10-03 14:30:00 | ERROR | payments | Payment failed
+2026-10-03 14:45:12 | ERROR | auth | Invalid password attempts exceeded
+2026-10-03 14:50:00 | ERROR | payments | Database connection timeout
+2026-10-03 15:02:11 | INFO | payments | Retry payment process started
+2026-10-03 15:15:33 | ERROR | payments | Payment failed
+2026-10-03 15:18:40 | ERROR | auth | Invalid password attempts exceeded
+2026-10-03 15:20:05 | ERROR | payments | Payment failed
+2026-10-03 15:22:19 | WARNING | auth | Suspicious login location detected
+2026-10-03 15:45:00 | ERROR | database | Database connection timeout
+CORRUPTED | LOG | ENTRY | 2026-10-03
+2026-10-03 16:01:50 | ERROR | payments | Payment failed
+2026-10-03 16:10:00 | ERROR | api | Rate limit exceeded
+2026-10-03 16:12:00 | ERROR | api | Rate limit exceeded
+2026-10-03 16:15:22 | ERROR | database | Database connection timeout
+2026-10-03 16:30:10 | DEBUG | api | Request payload processed
+2026-10-04 09:00:00 | INFO | system | System started
+2026-10-04 09:05:15 | ERROR | auth | Invalid password attempts exceeded
+2026-10-04 09:12:00 | ERROR | payments | I

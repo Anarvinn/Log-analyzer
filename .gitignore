@@ -1,0 +1,17 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Program results / Output files
+report.json
+
+# Editor and OS settings
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
